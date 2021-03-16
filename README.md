@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=sammiee5311&style=plastic)
+
 <!--
 **sammiee5311/sammiee5311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
