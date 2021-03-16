@@ -1,19 +1,21 @@
-### Hello, you 👋
+## Hello, you 👋
 
 A software engineering student who is interested in Artificial Intelligence, especially computer vision.
 
 - 🔭 I’m currently working on [crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker)
-- 🌱 I’m currently learning 'system design' and 'computer vision'
+- 🌱 I’m currently learning 'System Design' and 'Computer Vision'
 - 📫 How to reach me: sammiee5311@gmail.com
 
 <div align="center">
 
-# Languages
+## Languages
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="vertical-align:top; margin:4px">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="vertical-align:top; margin:4px">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="vertical-align:top; margin:4px">
 
 </div>
+
+## 
 
 <div align=center>
   
@@ -21,12 +23,16 @@ A software engineering student who is interested in Artificial Intelligence, esp
 
 </div>
 
+## 
+
 <div align=center>
   
 [![developer blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sammiee5311.github.io/)](https://sammiee5311.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammiee5311@gmail.com)](mailto:sammiee5311@gmail.com)
 
 </div>
+
+## 
 
 <div align=center>
   
