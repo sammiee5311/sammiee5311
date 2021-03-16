@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=sammiee5311&style=plastic)
 
+- 🔭 I’m currently working on ![crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker)
+- 🌱 I’m currently learning 'system design' and 'computer vision'
+- 📫 How to reach me: sammiee5311@gmail.com
+
 <!--
 **sammiee5311/sammiee5311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
