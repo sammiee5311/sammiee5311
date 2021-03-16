@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sammiee5311&style=plastic)
 
-- 🔭 I’m currently working on ![crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker)
+- 🔭 I’m currently working on [crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker)
 - 🌱 I’m currently learning 'system design' and 'computer vision'
 - 📫 How to reach me: sammiee5311@gmail.com
 
