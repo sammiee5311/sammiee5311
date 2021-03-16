@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A software engineering student who is interested in Artificial Intelligence, especially computer vision.
+
 ![](https://komarev.com/ghpvc/?username=sammiee5311&style=plastic)
 
 - 🔭 I’m currently working on [crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker)
