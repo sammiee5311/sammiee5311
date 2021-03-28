@@ -9,7 +9,7 @@
 A software engineering student who is interested in Artificial Intelligence, especially computer vision.
 
 - 🔭 I’m currently working on [crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker)
-- 🌱 I’m currently learning 'System Design' and 'Computer Vision'
+- 🌱 I’m currently learning 'System Design' and 'Blockchain'
 - 📫 How to reach me: sammiee5311@gmail.com
 
 <div align="center">
