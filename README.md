@@ -1,4 +1,4 @@
-## Hello, you 👋
+## Hey, you 👋
 <div align=center>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsammiee5311&count_bg=%23F85555&title_bg=%232CBDFF&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -24,10 +24,13 @@ A software engineering student who is interested in Artificial Intelligence, esp
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="vertical-align:top; margin:4px">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="vertical-align:top; margin:4px">
 
-</div>
+<br>
 
 [![developer blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sammiee5311.github.io/)](https://sammiee5311.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammiee5311@gmail.com)](mailto:sammiee5311@gmail.com)
+
+</div>
+
 
 <br>
 
