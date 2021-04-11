@@ -26,6 +26,9 @@ A software engineering student who is interested in Artificial Intelligence, esp
 
 </div>
 
+[![developer blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sammiee5311.github.io/)](https://sammiee5311.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammiee5311@gmail.com)](mailto:sammiee5311@gmail.com)
+
 <br>
 
 <details>
@@ -34,11 +37,7 @@ A software engineering student who is interested in Artificial Intelligence, esp
   <img align="left" alt="sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sammiee5311&show_icons=true&hide_border=true" />
 
 </details>
-
-<div align=center>
-  
-[![developer blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sammiee5311.github.io/)](https://sammiee5311.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammiee5311@gmail.com)](mailto:sammiee5311@gmail.com)
+ 
 
 <!--
 **sammiee5311/sammiee5311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
