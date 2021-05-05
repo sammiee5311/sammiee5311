@@ -26,7 +26,8 @@ A software engineering student who is interested in Artificial Intelligence, esp
 
 <br>
 
-[![developer blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sammiee5311.github.io/)](https://sammiee5311.github.io/)
+[![Developer Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sammiee5311.github.io/)](https://sammiee5311.github.io/)
+[![Portfoilo](http://img.shields.io/badge/Portfoilo-blue?style=flat-square&link=https://sammiee-portfoilo.netlify.app/)](https://sammiee-portfoilo.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammiee5311@gmail.com)](mailto:sammiee5311@gmail.com)
 
 </div>
