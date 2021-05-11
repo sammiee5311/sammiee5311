@@ -7,7 +7,7 @@
 
 A software engineering student who is interested in Artificial Intelligence, especially computer vision.
 
-- 🔭 I’m currently working on [crypto currency tracker](https://github.com/sammiee5311/bitcoin_tracker) & [medicine vending machine](https://github.com/sammiee5311/medicine_vending_machine)
+- 🔭 I’m currently working on [find missing people](https://github.com/sammiee5311/find_missing_people) & [medicine vending machine](https://github.com/sammiee5311/medicine_vending_machine)
 - 🌱 I’m currently learning 'Blockchain' & 'Clean code'
 - 📫 How to reach me: sammiee5311@gmail.com
 
