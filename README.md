@@ -1,6 +1,6 @@
 ## Hello, This is Sam.An 👋
-- 🔭 I’m currently working on [find missing people](https://github.com/sammiee5311/find_missing_people) & [univerChain](https://github.com/sammiee5311/univerChain) & [slack-api](https://github.com/sammiee5311/slack_api)
-- 🌱 I’m currently learning `Cloud` & `Clean Code`
+- 🔭 I’m currently working on [slack-api](https://github.com/sammiee5311/slack_api) & [fast-food-application](https://github.com/sammiee5311/fast-food-application)
+- 🌱 I’m currently learning `System Design` & `Clean Code`
 - 📫 How to reach me: `sammiee5311@gmail.com`
 
 <div align="center">
