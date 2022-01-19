@@ -1,6 +1,6 @@
 ## Hello, This is Sam.An 👋
-- 🔭 I’m currently working on [slack-api](https://github.com/sammiee5311/slack_api) & [fast-food-application](https://github.com/sammiee5311/fast-food-application)
-- 🌱 I’m currently learning `System Design` & `Clean Code`
+- 🔭 I’m currently working on [youtube-music-cli](https://github.com/sammiee5311/youtube-music-cli) & [fast-food-application](https://github.com/sammiee5311/fast-food-application)
+- 🌱 I’m currently learning `WebApp` & `Clean Code`
 - 📫 How to reach me: `sammiee5311@gmail.com`
 
 <div align="center">
