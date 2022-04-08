@@ -1,6 +1,6 @@
 ## Hello, This is Sam.An 👋
 - 🔭 I’m currently working on [youtube-music-cli](https://github.com/sammiee5311/youtube-music-cli) & [fast-food-application](https://github.com/sammiee5311/fast-food-application)
-- 🌱 I’m currently learning `Docker` & `Nginx`
+- 🌱 I’m currently learning `Linux`
 - 📫 How to reach me: `sammiee5311@gmail.com`
 
 <div align="center">
