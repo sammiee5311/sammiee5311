@@ -1,5 +1,5 @@
 ## Hello, This is Sam.An 👋
-- 🔭 I’m currently working on [youtube-music-cli](https://github.com/sammiee5311/youtube-music-cli) & [fast-food-application](https://github.com/sammiee5311/fast-food-application)
+- 🔭 I’m currently working on [fast-food-application](https://github.com/sammiee5311/fast-food-application)
 - 🌱 I’m currently learning `Database`
 - 📫 How to reach me: `sammiee5311@gmail.com`
 
