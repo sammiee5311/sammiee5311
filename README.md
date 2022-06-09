@@ -1,6 +1,6 @@
 ## Hello, This is Sam.An 👋
 - 🔭 I’m currently working on [fast-food-application](https://github.com/sammiee5311/fast-food-application)
-- 🌱 I’m currently learning `Database`
+- 🌱 I’m currently learning `Observability`
 - 📫 How to reach me: `sammiee5311@gmail.com`
 
 <div align="center">
