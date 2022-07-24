@@ -1,6 +1,6 @@
 ## Hello, This is Sam.An 👋
 - 🔭 I’m currently working on [idontknowname](https://github.com/sammiee5311/idontknowname)
-- 🌱 I’m currently learning `Infrastructure`
+- 🌱 I’m currently learning `Infrastructure` and `Testing`
 - 📫 How to reach me: `sammiee5311@gmail.com`
 
 <div align="center">
