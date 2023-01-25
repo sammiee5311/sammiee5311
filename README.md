@@ -31,7 +31,7 @@
   
 ## Stats
 
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/samhyeongan/discussion/light)
+<!-- ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/samhyeongan/discussion/light) -->
   
 
 </div>
