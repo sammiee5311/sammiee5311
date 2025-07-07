@@ -9,19 +9,19 @@
 ## Languages
   
 ### - Most confidence -
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="vertical-align:top; margin:4px">
   
 ### - Others -
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="vertical-align:top; margin:4px">
 
 ## Frameworks
-<img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" style="vertical-align:top; margin:4px">
 
 
 ## Websites
