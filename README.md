@@ -45,7 +45,7 @@
   <tr><td>Caddy</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-30852">CVE-2026-30852</a></td></tr>
   <tr><td>Pillow</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-40192">CVE-2026-40192</a></td></tr>
   <tr><td>python-multipart</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-53537">CVE-2026-53537</a></td></tr>
-  <tr><td>Gitea</td><td><a href="https://blog.gitea.com/release-of-1.25.5">CVE-2026-26232</a></td></tr>
+  <tr><td>Gitea</td><td><a href="https://www.cve.org/CVERecord?id=CVE-2026-26232">CVE-2026-26232</a></td></tr>
   <tr><td>gix-transport</td><td><a href="https://github.com/advisories/GHSA-9857-6mw7-fq2m">GHSA-9857-6mw7-fq2m</a></td></tr>
 </table>
 
