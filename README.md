@@ -41,11 +41,18 @@
 
 <table align="center">
   <tr><th>Project</th><th>Identifier</th></tr>
-  <tr><td>Linux</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-53194">CVE-2026-53194</a></td></tr>
-  <tr><td>Linux</td><td><a href="https://www.cve.org/CVERecord?id=CVE-2026-64427">CVE-2026-64427</a></td></tr>
-  <tr><td>Linux</td><td><a href="https://www.cve.org/CVERecord?id=CVE-2026-64479">CVE-2026-64479</a></td></tr>
-  <tr><td>Linux</td><td><a href="https://www.cve.org/CVERecord?id=CVE-2026-64491">CVE-2026-64491</a></td></tr>
-  <tr><td>Linux</td><td><a href="https://www.cve.org/CVERecord?id=CVE-2026-64603">CVE-2026-64603</a></td></tr>
+  <tr><td>Linux</td><td>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-53194">CVE-2026-53194</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-64427">CVE-2026-64427</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-64479">CVE-2026-64479</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-64491">CVE-2026-64491</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-64603">CVE-2026-64603</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-72415">CVE-2026-72415</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-74292">CVE-2026-74292</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-74293">CVE-2026-74293</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-74294">CVE-2026-74294</a><br>
+    <a href="https://www.cve.org/CVERecord?id=CVE-2026-74295">CVE-2026-74295</a>
+  </td></tr>
   <tr><td>Caddy</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-30852">CVE-2026-30852</a></td></tr>
   <tr><td>Pillow</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-40192">CVE-2026-40192</a></td></tr>
   <tr><td>python-multipart</td><td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-53537">CVE-2026-53537</a></td></tr>
