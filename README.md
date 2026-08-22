@@ -15,17 +15,18 @@
 
 **Others**
 
-<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="vertical-align:top; margin:4px">
-<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" style="vertical-align:top;margin:4px">
 <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="vertical-align:top; margin:4px">
 <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="vertical-align:top; margin:4px">
-<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="vertical-align:top; margin:4px">
 
-## Frameworks
-
-<img width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" style="vertical-align:top; margin:4px">
-<img width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png" style="vertical-align:top; margin:4px">
-<img width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" style="vertical-align:top; margin:4px">
+## Infrastructure
+  
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" 
+style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" 
+style="vertical-align:top; margin:4px">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" 
+style="vertical-align:top; margin:4px">
 
 </div>
 
@@ -38,6 +39,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sammiee5311@gmail.com)
 
 ## CVEs & Security Advisories
+
+[![Google Bug Hunters](https://img.shields.io/badge/Google%20Bug%20Hunters-Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://bughunters.google.com/profile/20441b40-cf9f-49ef-b6f2-3cc6d6bb91bf)
 
 <table align="center">
   <tr><th>Project</th><th>Identifier</th></tr>
