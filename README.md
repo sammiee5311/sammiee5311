@@ -1,6 +1,6 @@
-## Hello, This is Sam.An 👋
+## Hello, This is HyeongJun 👋
 
-- ⚡ I'm currently working as a Site Reliability Engineer.
+- ⚡ I'm currently working as a Software Engineer.
 - 🔭 I'm currently working on **[honeybeepf-llm](https://github.com/honeybee-studio/honeybeepf-llm)**.
 - 🌱 I'm currently learning **Networking**.
 - 📫 How to reach me: `sammiee5311@gmail.com`
